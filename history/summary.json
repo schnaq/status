@@ -22,19 +22,19 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "down",
-    "uptime": "74.64%",
-    "uptimeDay": "74.64%",
-    "uptimeWeek": "74.64%",
-    "uptimeMonth": "74.64%",
-    "uptimeYear": "74.64%",
-    "time": 708,
-    "timeDay": 708,
-    "timeWeek": 708,
-    "timeMonth": 708,
-    "timeYear": 708,
+    "status": "up",
+    "uptime": "65.55%",
+    "uptimeDay": "65.55%",
+    "uptimeWeek": "65.55%",
+    "uptimeMonth": "65.55%",
+    "uptimeYear": "65.55%",
+    "time": 656,
+    "timeDay": 656,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-04-18": 16
+      "2022-04-18": 25
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "down",
-    "uptime": "59.97%",
-    "uptimeDay": "59.97%",
-    "uptimeWeek": "59.97%",
-    "uptimeMonth": "59.97%",
-    "uptimeYear": "59.97%",
-    "time": 558,
-    "timeDay": 558,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "52.65%",
+    "uptimeDay": "52.65%",
+    "uptimeWeek": "52.65%",
+    "uptimeMonth": "52.65%",
+    "uptimeYear": "52.65%",
+    "time": 511,
+    "timeDay": 511,
+    "timeWeek": 511,
+    "timeMonth": 511,
+    "timeYear": 511,
     "dailyMinutesDown": {
-      "2022-04-18": 26
+      "2022-04-18": 35
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "down",
-    "uptime": "42.98%",
-    "uptimeDay": "42.98%",
-    "uptimeWeek": "42.98%",
-    "uptimeMonth": "42.98%",
-    "uptimeYear": "42.98%",
-    "time": 1046,
-    "timeDay": 1046,
-    "timeWeek": 1046,
-    "timeMonth": 1046,
-    "timeYear": 1046,
+    "status": "up",
+    "uptime": "37.71%",
+    "uptimeDay": "37.71%",
+    "uptimeWeek": "37.71%",
+    "uptimeMonth": "37.71%",
+    "uptimeYear": "37.71%",
+    "time": 756,
+    "timeDay": 756,
+    "timeWeek": 756,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2022-04-18": 37
+      "2022-04-18": 46
     }
   }
 ]
