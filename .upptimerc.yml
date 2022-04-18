@@ -20,6 +20,9 @@ sites:
   - name: schnaq Staging API
     url: $CHECK_SCHNAQ_STAGING_API
 
+assignees:
+  - n2o
+
 status-website:
   cname: status.schnaq.com
   logoUrl: https://s3.schnaq.com/schnaq-common/logos/schnaq.webp
