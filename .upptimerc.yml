@@ -14,7 +14,7 @@ sites:
   - name: S3 (MinIO)
     url: $CHECK_MINIO
   - name: Rancher
-    url: $CHECK_Rancher
+    url: $CHECK_RANCHER
   - name: schnaq Staging
     url: $CHECK_SCHNAQ_STAGING
   - name: schnaq Staging API
