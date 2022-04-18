@@ -1,20 +1,162 @@
 [
   {
     "name": "schnaq",
-    "url": "https://www.schnaq.com",
-    "icon": "https://favicons.githubusercontent.com/www.schnaq.com",
+    "url": "$CHECK_SCHNAQ",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.04%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.04%",
     "time": 1372,
     "timeDay": 1372,
     "timeWeek": 1372,
     "timeMonth": 1372,
     "timeYear": 1372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
+  },
+  {
+    "name": "schnaq API",
+    "url": "$CHECK_SCHNAQ_API",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "schnaq-api",
+    "status": "down",
+    "uptime": "1.11%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "1.11%",
+    "uptimeMonth": "1.11%",
+    "uptimeYear": "1.11%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
+  },
+  {
+    "name": "Authentication (Keycloak)",
+    "url": "$CHECK_KEYCLOAK",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "authentication-keycloak",
+    "status": "down",
+    "uptime": "4.13%",
+    "uptimeDay": "4.13%",
+    "uptimeWeek": "4.13%",
+    "uptimeMonth": "4.13%",
+    "uptimeYear": "4.13%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
+  },
+  {
+    "name": "Analytics (Matomo)",
+    "url": "$CHECK_MATOMO",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "analytics-matomo",
+    "status": "down",
+    "uptime": "7.41%",
+    "uptimeDay": "7.41%",
+    "uptimeWeek": "7.41%",
+    "uptimeMonth": "7.41%",
+    "uptimeYear": "7.41%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
+  },
+  {
+    "name": "S3 (MinIO)",
+    "url": "$CHECK_MINIO",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "s3-min-io",
+    "status": "down",
+    "uptime": "5.08%",
+    "uptimeDay": "5.08%",
+    "uptimeWeek": "5.08%",
+    "uptimeMonth": "5.08%",
+    "uptimeYear": "5.08%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
+  },
+  {
+    "name": "Rancher",
+    "url": "$CHECK_Rancher",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "rancher",
+    "status": "down",
+    "uptime": "9.82%",
+    "uptimeDay": "9.82%",
+    "uptimeWeek": "9.82%",
+    "uptimeMonth": "9.82%",
+    "uptimeYear": "9.82%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
+  },
+  {
+    "name": "schnaq Staging",
+    "url": "$CHECK_SCHNAQ_STAGING",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "schnaq-staging",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
+  },
+  {
+    "name": "schnaq Staging API",
+    "url": "$CHECK_SCHNAQ_STAGING_API",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "schnaq-staging-api",
+    "status": "down",
+    "uptime": "14.33%",
+    "uptimeDay": "14.33%",
+    "uptimeWeek": "14.33%",
+    "uptimeMonth": "14.33%",
+    "uptimeYear": "14.33%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-04-18": 0
+    }
   }
 ]
