@@ -22,19 +22,19 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "69.78%",
-    "uptimeDay": "69.78%",
-    "uptimeWeek": "69.78%",
-    "uptimeMonth": "69.78%",
-    "uptimeYear": "69.78%",
+    "status": "down",
+    "uptime": "72.39%",
+    "uptimeDay": "72.39%",
+    "uptimeWeek": "72.39%",
+    "uptimeMonth": "72.39%",
+    "uptimeYear": "72.39%",
     "time": 663,
     "timeDay": 663,
     "timeWeek": 663,
     "timeMonth": 663,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-04-18": 102
+      "2022-04-18": 95
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "down",
-    "uptime": "62.73%",
-    "uptimeDay": "62.73%",
-    "uptimeWeek": "62.73%",
-    "uptimeMonth": "62.73%",
-    "uptimeYear": "62.73%",
-    "time": 557,
-    "timeDay": 557,
-    "timeWeek": 557,
-    "timeMonth": 557,
-    "timeYear": 557,
+    "status": "up",
+    "uptime": "61.49%",
+    "uptimeDay": "61.49%",
+    "uptimeWeek": "61.49%",
+    "uptimeMonth": "61.49%",
+    "uptimeYear": "61.49%",
+    "time": 568,
+    "timeDay": 568,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-04-18": 127
+      "2022-04-18": 134
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
     "status": "down",
-    "uptime": "40.42%",
-    "uptimeDay": "40.42%",
-    "uptimeWeek": "40.42%",
-    "uptimeMonth": "40.42%",
-    "uptimeYear": "40.42%",
+    "uptime": "39.60%",
+    "uptimeDay": "39.60%",
+    "uptimeWeek": "39.60%",
+    "uptimeMonth": "39.60%",
+    "uptimeYear": "39.60%",
     "time": 784,
     "timeDay": 784,
     "timeWeek": 784,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2022-04-18": 202
+      "2022-04-18": 209
     }
   }
 ]
