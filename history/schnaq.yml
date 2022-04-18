@@ -1,7 +1,7 @@
-url: https://www.schnaq.com
-status: up
-code: 200
-responseTime: 1405
-lastUpdated: 2022-04-18T18:01:01.172Z
+url: $CHECK_SCHNAQ
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-04-18T18:07:48.985Z
 startTime: Mon Apr 18 2022 17:56:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
