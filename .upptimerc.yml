@@ -4,17 +4,29 @@ repo: status # The name of this repository
 
 sites:
   - name: schnaq
-    url: https://www.schnaq.com
+    url: $CHECK_SCHNAQ
+  - name: schnaq API
+    url: $CHECK_SCHNAQ_API
+  - name: Authentication (Keycloak)
+    url: $CHECK_KEYCLOAK
+  - name: Analytics (Matomo)
+    url: $CHECK_MATOMO
+  - name: S3 (MinIO)
+    url: $CHECK_MINIO
+  - name: Rancher
+    url: $CHECK_Rancher
+  - name: schnaq Staging
+    url: $CHECK_SCHNAQ_STAGING
+  - name: schnaq Staging API
+    url: $CHECK_SCHNAQ_STAGING_API
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.schnaq.com
-  # baseUrl: /your-repo-name
   logoUrl: https://s3.schnaq.com/schnaq-common/logos/schnaq.webp
   name: schnaq Status
   introTitle: "schnaq Status"
   introMessage: Check the uptime and availability of our services.
+  favicon: https://schnaq.com/favicons/favicon.ico
   navbar:
     - title: Status
       href: /
