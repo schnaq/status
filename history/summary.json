@@ -22,19 +22,20 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "down",
-    "uptime": "72.39%",
-    "uptimeDay": "72.39%",
-    "uptimeWeek": "72.39%",
-    "uptimeMonth": "72.39%",
-    "uptimeYear": "72.39%",
-    "time": 663,
-    "timeDay": 663,
-    "timeWeek": 663,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "status": "up",
+    "uptime": "69.72%",
+    "uptimeDay": "69.72%",
+    "uptimeWeek": "69.72%",
+    "uptimeMonth": "69.72%",
+    "uptimeYear": "69.72%",
+    "time": 662,
+    "timeDay": 662,
+    "timeWeek": 662,
+    "timeMonth": 662,
+    "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-04-18": 95
+      "2022-04-19": 8,
+      "2022-04-18": 100
     }
   },
   {
@@ -115,18 +116,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
     "status": "up",
-    "uptime": "61.49%",
-    "uptimeDay": "61.49%",
-    "uptimeWeek": "61.49%",
-    "uptimeMonth": "61.49%",
-    "uptimeYear": "61.49%",
+    "uptime": "66.82%",
+    "uptimeDay": "66.82%",
+    "uptimeWeek": "66.82%",
+    "uptimeMonth": "66.82%",
+    "uptimeYear": "66.82%",
     "time": 568,
     "timeDay": 568,
     "timeWeek": 568,
     "timeMonth": 568,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-04-18": 134
+      "2022-04-18": 120
     }
   },
   {
@@ -135,18 +136,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
     "status": "down",
-    "uptime": "39.60%",
-    "uptimeDay": "39.60%",
-    "uptimeWeek": "39.60%",
-    "uptimeMonth": "39.60%",
-    "uptimeYear": "39.60%",
+    "uptime": "38.13%",
+    "uptimeDay": "38.13%",
+    "uptimeWeek": "38.13%",
+    "uptimeMonth": "38.13%",
+    "uptimeYear": "38.13%",
     "time": 784,
     "timeDay": 784,
     "timeWeek": 784,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2022-04-18": 209
+      "2022-04-19": 9,
+      "2022-04-18": 214
     }
   }
 ]
