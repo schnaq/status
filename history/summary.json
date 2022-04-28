@@ -22,12 +22,12 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "78.68%",
-    "uptimeDay": "59.73%",
-    "uptimeWeek": "69.19%",
-    "uptimeMonth": "78.68%",
-    "uptimeYear": "78.68%",
+    "status": "down",
+    "uptime": "78.79%",
+    "uptimeDay": "60.20%",
+    "uptimeWeek": "69.34%",
+    "uptimeMonth": "78.79%",
+    "uptimeYear": "78.79%",
     "time": 588,
     "timeDay": 593,
     "timeWeek": 592,
@@ -39,7 +39,7 @@
       "2022-04-26": 664,
       "2022-04-25": 554,
       "2022-04-24": 446,
-      "2022-04-23": 306
+      "2022-04-23": 291
     }
   },
   {
@@ -119,12 +119,12 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "76.31%",
-    "uptimeDay": "57.54%",
-    "uptimeWeek": "65.78%",
-    "uptimeMonth": "76.31%",
-    "uptimeYear": "76.31%",
+    "status": "down",
+    "uptime": "76.44%",
+    "uptimeDay": "57.53%",
+    "uptimeWeek": "65.95%",
+    "uptimeMonth": "76.44%",
+    "uptimeYear": "76.44%",
     "time": 548,
     "timeDay": 574,
     "timeWeek": 554,
@@ -137,7 +137,7 @@
       "2022-04-25": 531,
       "2022-04-24": 573,
       "2022-04-23": 504,
-      "2022-04-22": 100
+      "2022-04-22": 82
     }
   },
   {
@@ -145,15 +145,15 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "up",
-    "uptime": "67.63%",
-    "uptimeDay": "36.48%",
-    "uptimeWeek": "53.23%",
-    "uptimeMonth": "67.63%",
-    "uptimeYear": "67.63%",
+    "status": "down",
+    "uptime": "67.76%",
+    "uptimeDay": "36.95%",
+    "uptimeWeek": "53.39%",
+    "uptimeMonth": "67.76%",
+    "uptimeYear": "67.76%",
     "time": 714,
     "timeDay": 771,
-    "timeWeek": 718,
+    "timeWeek": 719,
     "timeMonth": 714,
     "timeYear": 714,
     "dailyMinutesDown": {
@@ -162,7 +162,7 @@
       "2022-04-26": 993,
       "2022-04-25": 917,
       "2022-04-24": 873,
-      "2022-04-23": 243
+      "2022-04-23": 227
     }
   }
 ]
