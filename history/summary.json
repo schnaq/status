@@ -120,12 +120,12 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "87.49%",
-    "uptimeDay": "65.53%",
-    "uptimeWeek": "64.42%",
-    "uptimeMonth": "87.49%",
-    "uptimeYear": "87.49%",
+    "status": "down",
+    "uptime": "87.60%",
+    "uptimeDay": "65.51%",
+    "uptimeWeek": "64.72%",
+    "uptimeMonth": "87.60%",
+    "uptimeYear": "87.60%",
     "time": 565,
     "timeDay": 596,
     "timeWeek": 570,
@@ -138,7 +138,7 @@
       "2022-05-05": 689,
       "2022-05-04": 683,
       "2022-05-03": 536,
-      "2022-05-02": 242
+      "2022-05-02": 212
     }
   },
   {
@@ -146,14 +146,14 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "up",
-    "uptime": "85.05%",
-    "uptimeDay": "38.83%",
-    "uptimeWeek": "57.49%",
-    "uptimeMonth": "85.05%",
-    "uptimeYear": "85.05%",
+    "status": "down",
+    "uptime": "85.18%",
+    "uptimeDay": "38.81%",
+    "uptimeWeek": "57.84%",
+    "uptimeMonth": "85.18%",
+    "uptimeYear": "85.18%",
     "time": 707,
-    "timeDay": 725,
+    "timeDay": 734,
     "timeWeek": 704,
     "timeMonth": 707,
     "timeYear": 707,
@@ -163,7 +163,7 @@
       "2022-05-06": 860,
       "2022-05-05": 962,
       "2022-05-04": 908,
-      "2022-05-03": 204
+      "2022-05-03": 169
     }
   }
 ]
