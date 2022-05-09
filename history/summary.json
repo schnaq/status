@@ -22,15 +22,15 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "88.84%",
-    "uptimeDay": "44.74%",
-    "uptimeWeek": "66.15%",
-    "uptimeMonth": "88.84%",
-    "uptimeYear": "88.84%",
+    "status": "down",
+    "uptime": "88.89%",
+    "uptimeDay": "44.73%",
+    "uptimeWeek": "66.31%",
+    "uptimeMonth": "88.89%",
+    "uptimeYear": "88.89%",
     "time": 595,
     "timeDay": 625,
-    "timeWeek": 592,
+    "timeWeek": 591,
     "timeMonth": 595,
     "timeYear": 595,
     "dailyMinutesDown": {
@@ -39,7 +39,7 @@
       "2022-05-07": 654,
       "2022-05-06": 514,
       "2022-05-05": 514,
-      "2022-05-04": 408
+      "2022-05-04": 392
     }
   },
   {
@@ -119,12 +119,12 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "87.78%",
-    "uptimeDay": "47.57%",
-    "uptimeWeek": "62.94%",
-    "uptimeMonth": "87.78%",
-    "uptimeYear": "87.78%",
+    "status": "down",
+    "uptime": "88.20%",
+    "uptimeDay": "47.55%",
+    "uptimeWeek": "64.22%",
+    "uptimeMonth": "88.20%",
+    "uptimeYear": "88.20%",
     "time": 566,
     "timeDay": 568,
     "timeWeek": 573,
@@ -136,7 +136,7 @@
       "2022-05-07": 514,
       "2022-05-06": 551,
       "2022-05-05": 689,
-      "2022-05-04": 665
+      "2022-05-04": 536
     }
   },
   {
@@ -145,23 +145,23 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
     "status": "up",
-    "uptime": "86.19%",
-    "uptimeDay": "47.22%",
-    "uptimeWeek": "58.13%",
-    "uptimeMonth": "86.19%",
-    "uptimeYear": "86.19%",
+    "uptime": "86.12%",
+    "uptimeDay": "48.00%",
+    "uptimeWeek": "57.92%",
+    "uptimeMonth": "86.12%",
+    "uptimeYear": "86.12%",
     "time": 715,
     "timeDay": 868,
     "timeWeek": 725,
     "timeMonth": 715,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2022-05-09": 759,
+      "2022-05-09": 748,
       "2022-05-08": 834,
       "2022-05-07": 752,
       "2022-05-06": 860,
       "2022-05-05": 962,
-      "2022-05-04": 53
+      "2022-05-04": 85
     }
   }
 ]
