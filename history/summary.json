@@ -22,14 +22,14 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "88.71%",
-    "uptimeDay": "48.72%",
-    "uptimeWeek": "64.66%",
-    "uptimeMonth": "88.71%",
-    "uptimeYear": "88.71%",
+    "status": "down",
+    "uptime": "88.79%",
+    "uptimeDay": "48.70%",
+    "uptimeWeek": "64.82%",
+    "uptimeMonth": "88.79%",
+    "uptimeYear": "88.79%",
     "time": 595,
-    "timeDay": 610,
+    "timeDay": 613,
     "timeWeek": 590,
     "timeMonth": 595,
     "timeYear": 595,
@@ -40,7 +40,7 @@
       "2022-05-07": 654,
       "2022-05-06": 514,
       "2022-05-05": 514,
-      "2022-05-04": 47
+      "2022-05-04": 31
     }
   },
   {
@@ -120,15 +120,15 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "88.53%",
-    "uptimeDay": "57.10%",
-    "uptimeWeek": "64.08%",
-    "uptimeMonth": "88.53%",
-    "uptimeYear": "88.53%",
+    "status": "down",
+    "uptime": "88.62%",
+    "uptimeDay": "57.08%",
+    "uptimeWeek": "64.30%",
+    "uptimeMonth": "88.62%",
+    "uptimeYear": "88.62%",
     "time": 566,
     "timeDay": 595,
-    "timeWeek": 575,
+    "timeWeek": 576,
     "timeMonth": 566,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -138,7 +138,7 @@
       "2022-05-07": 514,
       "2022-05-06": 551,
       "2022-05-05": 689,
-      "2022-05-04": 120
+      "2022-05-04": 98
     }
   },
   {
@@ -146,14 +146,14 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "up",
-    "uptime": "86.63%",
-    "uptimeDay": "40.55%",
-    "uptimeWeek": "58.15%",
-    "uptimeMonth": "86.63%",
-    "uptimeYear": "86.63%",
+    "status": "down",
+    "uptime": "86.84%",
+    "uptimeDay": "42.63%",
+    "uptimeWeek": "58.72%",
+    "uptimeMonth": "86.84%",
+    "uptimeYear": "86.84%",
     "time": 717,
-    "timeDay": 862,
+    "timeDay": 869,
     "timeWeek": 734,
     "timeMonth": 717,
     "timeYear": 717,
@@ -163,7 +163,7 @@
       "2022-05-08": 834,
       "2022-05-07": 752,
       "2022-05-06": 860,
-      "2022-05-05": 385
+      "2022-05-05": 327
     }
   }
 ]
