@@ -22,12 +22,12 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "89.02%",
-    "uptimeDay": "58.10%",
-    "uptimeWeek": "64.85%",
-    "uptimeMonth": "89.02%",
-    "uptimeYear": "89.02%",
+    "status": "down",
+    "uptime": "89.08%",
+    "uptimeDay": "58.08%",
+    "uptimeWeek": "65.03%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "89.08%",
     "time": 594,
     "timeDay": 580,
     "timeWeek": 585,
@@ -40,7 +40,7 @@
       "2022-05-08": 533,
       "2022-05-07": 654,
       "2022-05-06": 514,
-      "2022-05-05": 262
+      "2022-05-05": 244
     }
   },
   {
@@ -120,12 +120,12 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "89.36%",
-    "uptimeDay": "63.20%",
-    "uptimeWeek": "65.91%",
-    "uptimeMonth": "89.36%",
-    "uptimeYear": "89.36%",
+    "status": "down",
+    "uptime": "89.44%",
+    "uptimeDay": "64.26%",
+    "uptimeWeek": "66.15%",
+    "uptimeMonth": "89.44%",
+    "uptimeYear": "89.44%",
     "time": 567,
     "timeDay": 606,
     "timeWeek": 577,
@@ -138,7 +138,7 @@
       "2022-05-08": 563,
       "2022-05-07": 514,
       "2022-05-06": 551,
-      "2022-05-05": 360
+      "2022-05-05": 336
     }
   },
   {
@@ -146,12 +146,12 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "up",
-    "uptime": "86.43%",
-    "uptimeDay": "40.98%",
-    "uptimeWeek": "56.55%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "86.43%",
+    "status": "down",
+    "uptime": "86.54%",
+    "uptimeDay": "41.63%",
+    "uptimeWeek": "56.89%",
+    "uptimeMonth": "86.54%",
+    "uptimeYear": "86.54%",
     "time": 716,
     "timeDay": 755,
     "timeWeek": 730,
@@ -164,7 +164,7 @@
       "2022-05-08": 834,
       "2022-05-07": 752,
       "2022-05-06": 860,
-      "2022-05-05": 130
+      "2022-05-05": 96
     }
   }
 ]
