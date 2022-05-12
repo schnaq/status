@@ -23,24 +23,24 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
     "status": "up",
-    "uptime": "89.68%",
-    "uptimeDay": "66.51%",
-    "uptimeWeek": "64.79%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "89.68%",
+    "uptime": "89.61%",
+    "uptimeDay": "67.08%",
+    "uptimeWeek": "64.53%",
+    "uptimeMonth": "89.61%",
+    "uptimeYear": "89.61%",
     "time": 592,
-    "timeDay": 545,
+    "timeDay": 550,
     "timeWeek": 587,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-05-12": 343,
+      "2022-05-12": 335,
       "2022-05-11": 530,
       "2022-05-10": 680,
       "2022-05-09": 795,
       "2022-05-08": 533,
       "2022-05-07": 654,
-      "2022-05-06": 20
+      "2022-05-06": 55
     }
   },
   {
@@ -121,24 +121,24 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
     "status": "up",
-    "uptime": "90.31%",
-    "uptimeDay": "64.72%",
-    "uptimeWeek": "66.95%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "90.31%",
+    "uptime": "90.18%",
+    "uptimeDay": "65.30%",
+    "uptimeWeek": "66.49%",
+    "uptimeMonth": "90.18%",
+    "uptimeYear": "90.18%",
     "time": 566,
-    "timeDay": 570,
+    "timeDay": 576,
     "timeWeek": 571,
     "timeMonth": 566,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2022-05-12": 394,
+      "2022-05-12": 386,
       "2022-05-11": 544,
       "2022-05-10": 549,
       "2022-05-09": 755,
       "2022-05-08": 563,
       "2022-05-07": 514,
-      "2022-05-06": 16
+      "2022-05-06": 71
     }
   },
   {
@@ -146,12 +146,12 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "up",
-    "uptime": "87.64%",
-    "uptimeDay": "39.88%",
-    "uptimeWeek": "57.86%",
-    "uptimeMonth": "87.64%",
-    "uptimeYear": "87.64%",
+    "status": "down",
+    "uptime": "87.78%",
+    "uptimeDay": "41.48%",
+    "uptimeWeek": "58.30%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "87.78%",
     "time": 716,
     "timeDay": 731,
     "timeWeek": 740,
@@ -163,7 +163,7 @@
       "2022-05-10": 827,
       "2022-05-09": 763,
       "2022-05-08": 834,
-      "2022-05-07": 380
+      "2022-05-07": 336
     }
   }
 ]
