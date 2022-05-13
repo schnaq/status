@@ -120,12 +120,12 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "90.34%",
-    "uptimeDay": "57.48%",
-    "uptimeWeek": "66.12%",
-    "uptimeMonth": "90.34%",
-    "uptimeYear": "90.34%",
+    "status": "down",
+    "uptime": "90.41%",
+    "uptimeDay": "58.18%",
+    "uptimeWeek": "66.34%",
+    "uptimeMonth": "90.41%",
+    "uptimeYear": "90.41%",
     "time": 567,
     "timeDay": 567,
     "timeWeek": 576,
@@ -138,7 +138,7 @@
       "2022-05-10": 549,
       "2022-05-09": 755,
       "2022-05-08": 563,
-      "2022-05-07": 207
+      "2022-05-07": 184
     }
   },
   {
