@@ -22,12 +22,12 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "91.15%",
-    "uptimeDay": "60.56%",
-    "uptimeWeek": "65.62%",
-    "uptimeMonth": "91.15%",
-    "uptimeYear": "91.15%",
+    "status": "down",
+    "uptime": "91.20%",
+    "uptimeDay": "60.55%",
+    "uptimeWeek": "65.82%",
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "91.20%",
     "time": 590,
     "timeDay": 560,
     "timeWeek": 577,
@@ -40,7 +40,7 @@
       "2022-05-12": 541,
       "2022-05-11": 530,
       "2022-05-10": 680,
-      "2022-05-09": 150
+      "2022-05-09": 129
     }
   },
   {
@@ -122,13 +122,13 @@
     "slug": "schnaq-staging",
     "status": "up",
     "uptime": "90.57%",
-    "uptimeDay": "61.89%",
+    "uptimeDay": "62.49%",
     "uptimeWeek": "63.39%",
     "uptimeMonth": "90.57%",
     "uptimeYear": "90.57%",
     "time": 565,
     "timeDay": 540,
-    "timeWeek": 563,
+    "timeWeek": 562,
     "timeMonth": 565,
     "timeYear": 565,
     "dailyMinutesDown": {
@@ -146,14 +146,14 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "up",
-    "uptime": "87.91%",
-    "uptimeDay": "31.47%",
-    "uptimeWeek": "53.05%",
-    "uptimeMonth": "87.91%",
-    "uptimeYear": "87.91%",
+    "status": "down",
+    "uptime": "88.00%",
+    "uptimeDay": "32.03%",
+    "uptimeWeek": "53.40%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "88.00%",
     "time": 714,
-    "timeDay": 673,
+    "timeDay": 668,
     "timeWeek": 733,
     "timeMonth": 714,
     "timeYear": 714,
@@ -163,7 +163,7 @@
       "2022-05-13": 890,
       "2022-05-12": 852,
       "2022-05-11": 858,
-      "2022-05-10": 263
+      "2022-05-10": 227
     }
   }
 ]
