@@ -22,12 +22,12 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "90.43%",
-    "uptimeDay": "72.04%",
-    "uptimeWeek": "64.01%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "90.43%",
+    "status": "down",
+    "uptime": "90.48%",
+    "uptimeDay": "72.02%",
+    "uptimeWeek": "64.16%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "90.48%",
     "time": 591,
     "timeDay": 607,
     "timeWeek": 582,
@@ -41,7 +41,7 @@
       "2022-05-11": 530,
       "2022-05-10": 680,
       "2022-05-09": 795,
-      "2022-05-08": 41
+      "2022-05-08": 26
     }
   },
   {
@@ -121,12 +121,12 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "90.40%",
-    "uptimeDay": "53.11%",
-    "uptimeWeek": "63.90%",
-    "uptimeMonth": "90.40%",
-    "uptimeYear": "90.40%",
+    "status": "down",
+    "uptime": "90.52%",
+    "uptimeDay": "56.33%",
+    "uptimeWeek": "64.33%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "90.52%",
     "time": 566,
     "timeDay": 576,
     "timeWeek": 567,
@@ -139,7 +139,7 @@
       "2022-05-12": 542,
       "2022-05-11": 544,
       "2022-05-10": 549,
-      "2022-05-09": 499
+      "2022-05-09": 455
     }
   },
   {
@@ -147,12 +147,12 @@
     "url": "$CHECK_SCHNAQ_STAGING_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
-    "status": "up",
-    "uptime": "87.09%",
-    "uptimeDay": "35.22%",
-    "uptimeWeek": "51.46%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "87.09%",
+    "status": "down",
+    "uptime": "87.56%",
+    "uptimeDay": "35.51%",
+    "uptimeWeek": "53.17%",
+    "uptimeMonth": "87.56%",
+    "uptimeYear": "87.56%",
     "time": 716,
     "timeDay": 733,
     "timeWeek": 742,
@@ -165,7 +165,7 @@
       "2022-05-12": 852,
       "2022-05-11": 858,
       "2022-05-10": 827,
-      "2022-05-09": 436
+      "2022-05-09": 264
     }
   }
 ]
