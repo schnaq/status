@@ -22,12 +22,12 @@
     "url": "$CHECK_SCHNAQ_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-api",
-    "status": "up",
-    "uptime": "91.62%",
-    "uptimeDay": "61.84%",
-    "uptimeWeek": "65.81%",
-    "uptimeMonth": "91.62%",
-    "uptimeYear": "91.62%",
+    "status": "down",
+    "uptime": "91.70%",
+    "uptimeDay": "61.82%",
+    "uptimeWeek": "66.14%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "91.70%",
     "time": 588,
     "timeDay": 539,
     "timeWeek": 569,
@@ -41,7 +41,7 @@
       "2022-05-13": 612,
       "2022-05-12": 541,
       "2022-05-11": 530,
-      "2022-05-10": 88
+      "2022-05-10": 55
     }
   },
   {
@@ -121,15 +121,15 @@
     "url": "$CHECK_SCHNAQ_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging",
-    "status": "up",
-    "uptime": "91.01%",
-    "uptimeDay": "61.31%",
-    "uptimeWeek": "63.33%",
-    "uptimeMonth": "91.01%",
-    "uptimeYear": "91.01%",
+    "status": "down",
+    "uptime": "91.14%",
+    "uptimeDay": "61.30%",
+    "uptimeWeek": "63.84%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "91.14%",
     "time": 563,
-    "timeDay": 521,
-    "timeWeek": 558,
+    "timeDay": 516,
+    "timeWeek": 557,
     "timeMonth": 563,
     "timeYear": 563,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
       "2022-05-14": 688,
       "2022-05-13": 791,
       "2022-05-12": 542,
-      "2022-05-11": 399
+      "2022-05-11": 347
     }
   },
   {
@@ -148,24 +148,24 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "schnaq-staging-api",
     "status": "up",
-    "uptime": "88.62%",
-    "uptimeDay": "53.21%",
-    "uptimeWeek": "53.58%",
-    "uptimeMonth": "88.62%",
-    "uptimeYear": "88.62%",
+    "uptime": "88.57%",
+    "uptimeDay": "54.21%",
+    "uptimeWeek": "53.36%",
+    "uptimeMonth": "88.57%",
+    "uptimeYear": "88.57%",
     "time": 713,
     "timeDay": 702,
     "timeWeek": 708,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-05-17": 250,
+      "2022-05-17": 243,
       "2022-05-16": 662,
       "2022-05-15": 1010,
       "2022-05-14": 921,
       "2022-05-13": 890,
       "2022-05-12": 852,
-      "2022-05-11": 91
+      "2022-05-11": 120
     }
   }
 ]
